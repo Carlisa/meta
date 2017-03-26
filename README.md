@@ -12,6 +12,8 @@ Informații utile.
 
 ### `RON` (Făgăraș)
 
+Acest cont se poate folosi pentru donații/daruri/zecime.
+
 ```
 ASOC.RAZSMR BRDE FĂGĂRAȘ
 
