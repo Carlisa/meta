@@ -1,14 +1,14 @@
 # meta
 
-Informații utile.
+Informații utile. Pentru întrebări/sesizații, [deschideți issue-uri](https://github.com/azsmr/meta/issues/new). :rocket:
 
-## Site-uri
+## :globe_with_meridians: Site-uri
 
  - http://www.azsmr.ro/
  - http://www.azsmr-moldova.ro/
  - http://www.tineribanat.ro/
  
-## Conturi bancare
+## :bank: Conturi bancare
 
 ### `RON` (Făgăraș)
 
